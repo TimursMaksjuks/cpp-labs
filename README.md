@@ -2,31 +2,23 @@
 
 
 
-This repository contains laboratory works completed during university C++ course.
+This repository contains my laboratory works completed during university C++ course.
 
 
 
-\*\*Task:\*\*  
-
-Print a hexadecimal multiplication table (from 1×1 to F×F) without using built-in hexadecimal formatting functions.
+The purpose of this repository is to document my learning progress and programming practice.
 
 
 
-\*\*Concepts used:\*\*
-
-\- Functions
-
-\- Arrays
-
-\- Loops
-
-\- Number system conversion
-
-\- String manipulation
+\# Structure
 
 
 
-\## About
+Each folder represents a separate laboratory work:
 
-These labs were created as part of academic coursework and are being organized and documented for portfolio purposes.
+\- lab1 — hexadecimal multiplication table
+
+
+
+More labs will be added during the course.
 
