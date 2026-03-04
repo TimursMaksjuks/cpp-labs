@@ -1,4 +1,4 @@
-A Stanford University project to construct a model
+A Stanford University project to construct a model
 
 of the cerebral cortex in silicon could help scientists
 
