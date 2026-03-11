@@ -16,7 +16,7 @@ The purpose of this repository is to document my learning progress and programmi
 
 Each folder represents a separate laboratory work:
 
-\- lab1 — hexadecimal multiplication table  
+\- lab1 - hexadecimal multiplication table  
 
 \- lab2 - operations with text files  
 
