@@ -1,4 +1,4 @@
-\# C++ University Labs
+# C++ University Labs
 
 
 
@@ -10,17 +10,17 @@ The purpose of this repository is to document my learning progress and programmi
 
 
 
-\# Structure
+# Structure
 
 
 
 Each folder represents a separate laboratory work:
 
-\- lab1 - hexadecimal multiplication table  
+- lab1 - hexadecimal multiplication table  
 
-\- lab2 - operations with text files  
+- lab2 - operations with text files  
 
-\- lab3 - linked list reversal
+- lab3 - linked list reversal
 
 \- lab4 - binary files
 
