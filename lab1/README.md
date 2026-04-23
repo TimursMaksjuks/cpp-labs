@@ -1,4 +1,4 @@
-\# C++ University Labs
+# C++ University Labs
 
 
 
@@ -6,27 +6,27 @@ This repository contains laboratory works completed during university C++ course
 
 
 
-\*\*Task:\*\*  
+**Task:**  
 
 Print a hexadecimal multiplication table (from 1×1 to F×F) without using built-in hexadecimal formatting functions.
 
 
 
-\*\*Concepts used:\*\*
+**Concepts used:**
 
-\- Functions
+- Functions
 
-\- Arrays
+- Arrays
 
-\- Loops
+- Loops
 
-\- Number system conversion
+- Number system conversion
 
-\- String manipulation
+- String manipulation
 
 
 
-\## About
+## About
 
 These labs were created as part of academic coursework and are being organized and documented for portfolio purposes.
 
