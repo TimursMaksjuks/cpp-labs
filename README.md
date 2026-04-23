@@ -22,7 +22,7 @@ Each folder represents a separate laboratory work:
 
 - lab3 - linked list reversal
 
-\- lab4 - binary files
+- lab4 - binary files
 
 
 More labs will be added during the course.
