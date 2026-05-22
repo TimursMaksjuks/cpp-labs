@@ -24,6 +24,8 @@ Each folder represents a separate laboratory work:
 
 - lab4 - binary files
 
+- lab5 - linked list implementations (using try-throw-catch structure; unit testing)
 
-More labs will be added during the course.
+
+
 
