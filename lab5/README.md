@@ -1,8 +1,8 @@
-\# Lab 5 - Reversing a Singly Linked List
+# Lab 5 - Reversing a Singly Linked List
 
 
 
-\## Description
+## Description
 
 
 
@@ -16,25 +16,25 @@ The reversal is performed only by reconnecting pointers between nodes.
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
-\### Manual\_List\_Version
+### Manual_List_Version
 
 Interactive console application that allows the user to:
 
-\- enter list elements,
+- enter list elements,
 
-\- display the original list,
+- display the original list,
 
-\- reverse the list,
+- reverse the list,
 
-\- display the reversed list.
+- display the reversed list.
 
 
 
-\### Manual\_List\_Test\_Version
+### Manual_List_Test_Version
 
 Automated test version used to verify the correctness of the linked list reversal algorithm.
 
@@ -42,27 +42,27 @@ Automated test version used to verify the correctness of the linked list reversa
 
 The tests include:
 
-\- normal list reversal,
+- normal list reversal,
 
-\- reversing a single-element list,
+- reversing a single-element list,
 
-\- reversing an empty list,
+- reversing an empty list,
 
-\- reversing lists containing negative values.
-
-
-
-\## Technologies Used
+- reversing lists containing negative values.
 
 
 
-\- C++
+## Technologies Used
 
-\- Dynamic memory allocation
 
-\- Singly linked lists
 
-\- Pointer manipulation
+- C++
 
-\- Exception handling
+- Dynamic memory allocation
+
+- Singly linked lists
+
+- Pointer manipulation
+
+- Exception handling
 
