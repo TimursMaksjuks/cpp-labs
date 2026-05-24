@@ -1,8 +1,8 @@
-\# Manual List Version
+# Manual List Version
 
 
 
-\## Description
+## Description
 
 
 
@@ -12,13 +12,13 @@ This project implements a singly linked list using dynamic memory allocation in 
 
 The program allows the user to:
 
-\- input list elements manually,
+- input list elements manually,
 
-\- display the original list,
+- display the original list,
 
-\- reverse the linked list,
+- reverse the linked list,
 
-\- display the reversed list.
+- display the reversed list.
 
 
 
@@ -26,33 +26,33 @@ The list reversal is performed by reconnecting node pointers instead of copying 
 
 
 
-\## Files
+## Files
 
 
 
-\- `main.cpp` — user interaction and program execution
+- `main.cpp` — user interaction and program execution
 
-\- `reverse\_list.cpp` — linked list function implementations
+- `reverse\_list.cpp` — linked list function implementations
 
-\- `reverse\_list.h` — structure and function declarations
-
-
-
-\## Features
+- `reverse\_list.h` — structure and function declarations
 
 
 
-\- Dynamic memory management
-
-\- Pointer-based linked list implementation
-
-\- In-place list reversal
-
-\- Exception handling for invalid operations
+## Features
 
 
 
-\## Example
+- Dynamic memory management
+
+- Pointer-based linked list implementation
+
+- In-place list reversal
+
+- Exception handling for invalid operations
+
+
+
+## Example
 
 
 
