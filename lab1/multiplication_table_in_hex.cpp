@@ -5,8 +5,7 @@ using namespace std;
 
 /*
 Timurs Maksjuks
-C37. Without using built-in hexadecimal output functions,
-print the multiplication table in hexadecimal number system (from 1*1 to F*F).
+Without using built-in hexadecimal output functions, print the multiplication table in hexadecimal number system (from 1*1 to F*F).
 Program created: 11.11.2025
 */
 
