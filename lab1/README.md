@@ -40,7 +40,7 @@ Without using built-in hexadecimal output functions:
 
 ## File Structure
 
-### `main.cpp`
+### `multiplication_table_in_hex.cpp`
 
 Contains:
 - hexadecimal conversion function,
