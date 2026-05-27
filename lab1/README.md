@@ -1,32 +1,74 @@
-# C++ University Labs
+# Lab 1 - Hexadecimal Multiplication Table
 
+## Description
 
+This laboratory work implements a hexadecimal multiplication table in C++ without using built-in hexadecimal formatting functions.
 
-This repository contains laboratory works completed during university C++ course.
+The program generates and prints a multiplication table from:
 
+```
+1 × 1  to  F × F
 
+```
 
-**Task:**  
+All decimal values are manually converted into hexadecimal representation using a custom conversion function.
 
-Print a hexadecimal multiplication table (from 1×1 to F×F) without using built-in hexadecimal formatting functions.
+## Task
 
+Without using built-in hexadecimal output functions:
+- generate multiplication results,
+- convert decimal values into hexadecimal format manually,
+- display the complete hexadecimal multiplication table.
 
+## Features
 
-**Concepts used:**
+- Manual decimal-to-hexadecimal conversion
+- Hexadecimal multiplication table generation
+- Nested loop table traversal
+- Static two-dimensional array usage
+- String manipulation
+- User-controlled program loop
 
+## Technologies Used
+
+- C++
 - Functions
-
 - Arrays
-
 - Loops
-
+- String operations
 - Number system conversion
 
-- String manipulation
+## File Structure
 
+### `main.cpp`
 
+Contains:
+- hexadecimal conversion function,
+- multiplication table generation function,
+- main program loop.
 
-## About
+## Main Functions
 
-These labs were created as part of academic coursework and are being organized and documented for portfolio purposes.
+### `trans(int num)`
 
+Converts a decimal number into hexadecimal format manually.
+
+Examples:
+
+```text
+10  -> A
+15  -> F
+31  -> 1F
+```
+
+### `table(string arr[16][16])`
+
+Generates and prints the hexadecimal multiplication table.
+
+## Example Output
+
+```text
+1   2   3   4   5
+2   4   6   8   A
+3   6   9   C   F
+```
